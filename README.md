@@ -144,7 +144,7 @@ PROMPTA is provided "as-is" without warranty of any kind. Use at your own risk.
 
 ## Built By
 
-**Daniel / Locoseed** — Music producer, Suno enthusiast
+**Daniel / Locoseed** with Claude — Music producer, Suno enthusiast
 
 ---
 
