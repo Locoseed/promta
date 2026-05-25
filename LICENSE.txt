@@ -1,0 +1,131 @@
+PROMPTA — Professional Genre Prompt System
+LICENSE AGREEMENT
+
+================================================================================
+PROPRIETARY & CONFIDENTIAL
+================================================================================
+
+Copyright © 2026 Daniel (Locoseed). All rights reserved.
+
+This software, including all data, logic, prompt pools, era anchors, subgenre 
+structures, and documentation, is the proprietary intellectual property of 
+Daniel (Locoseed) and is protected by copyright law.
+
+================================================================================
+PERMITTED USE
+================================================================================
+
+You are granted a limited, non-exclusive, non-transferable license to:
+
+1. Use PROMPTA for generating text prompts for personal and commercial 
+   music production (via Suno AI or compatible platforms)
+2. Generate and store prompts locally in your browser
+3. Access and use the tool's features as provided
+
+================================================================================
+RESTRICTIONS
+================================================================================
+
+You may NOT:
+
+1. Reproduce, copy, modify, or distribute PROMPTA (in whole or in part) without
+   explicit written permission from Daniel (Locoseed)
+
+2. Reverse-engineer, decompile, or attempt to extract PROMPTA's data structures,
+   genre logic, era anchors, or prompt pools
+
+3. Create derivative works based on PROMPTA's proprietary data or methodology
+
+4. Redistribute PROMPTA under a different name, brand, or license
+
+5. Sell, rent, lease, or sublicense PROMPTA
+
+6. Use PROMPTA in a way that violates Suno's Terms of Service or applicable law
+
+7. Remove or obscure any copyright notices, proprietary markings, or license text
+
+================================================================================
+INTELLECTUAL PROPERTY
+================================================================================
+
+PROMPTA's data, logic, and prompt pools are proprietary and curated by 
+Daniel (Locoseed). This includes:
+
+- 600+ two-layer era anchors
+- 150+ subgenre-specific prompt structures
+- Humanization standards and contradiction detection logic
+- Bar-mode, song-structure, and curveball pools
+
+Unauthorized use, reproduction, or distribution of this content is prohibited 
+and will be pursued legally.
+
+================================================================================
+DISCLAIMER & WARRANTY
+================================================================================
+
+PROMPTA IS PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+IN NO EVENT SHALL DANIEL (LOCOSEED) BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR
+IN CONNECTION WITH THE USE OF PROMPTA.
+
+USE AT YOUR OWN RISK.
+
+================================================================================
+SUNO AI COMPLIANCE
+================================================================================
+
+PROMPTA is not affiliated with, endorsed by, or sponsored by Suno AI.
+
+Your use of Suno AI and generated music is governed exclusively by 
+Suno's Terms of Service: https://suno.ai
+
+You are solely responsible for:
+- Ensuring compliance with Suno's ToS
+- Maintaining a paid Suno plan for commercial music generation
+- Legal usability of Suno-generated content
+- All copyright and licensing obligations
+
+PROMPTA is not responsible for your compliance with Suno's terms.
+
+================================================================================
+TERMINATION
+================================================================================
+
+This license is effective until terminated. Your rights under this license will
+terminate automatically without notice if you breach any term. Upon termination,
+you must cease all use of PROMPTA.
+
+================================================================================
+GOVERNING LAW
+================================================================================
+
+This license is governed by the laws of Germany (Hesse).
+
+Any legal disputes arising from PROMPTA's use are subject to the exclusive
+jurisdiction of courts in Frankfurt am Main, Germany.
+
+================================================================================
+CONTACT & ENFORCEMENT
+================================================================================
+
+For licensing inquiries, permissions, or to report violations:
+Contact: Daniel (Locoseed)
+
+Unauthorized reproduction or distribution of PROMPTA will be pursued legally.
+
+================================================================================
+ACCEPTANCE
+================================================================================
+
+By using PROMPTA, you acknowledge that you have read, understood, and agree to
+be bound by all terms and conditions of this license.
+
+If you do not agree to these terms, do not use PROMPTA.
+
+================================================================================
+Last Updated: May 2026
+Version: 1.0
+================================================================================
